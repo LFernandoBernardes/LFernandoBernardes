@@ -29,4 +29,4 @@ Contribuições são bem-vindas! Se você tem algum feedback, sugestão de melho
 
 <h3 align="left">Github Estatísticas</h3>
 
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LFernandoBernardes&theme=shadow_green)](https://github.com/anuraghazra/github-readme-stats)
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LFernandoBernardes&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
