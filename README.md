@@ -1,27 +1,33 @@
 # Olá, sou Luiz Fernando Bernardes Borges! 👋
+Seja bem-vindo(a) ao meu repositório! Sou um profissional especializado em Qualidade de Software, com experiência em testes manuais e automatizados. Formado em Administração de Empresas, combino uma sólida base em gestão com expertise técnica em Quality Assurance, contribuindo para a excelência em desenvolvimento de software.
 
-Seja bem-vindo(a) ao meu repositório! Sou um profissional em transição de carreira para a área de **Qualidade de Software**, com foco em testes manuais e automatizados. Sou formado em **Administração de Empresas** e, atualmente, dedico-me integralmente ao aprendizado contínuo em **Testes de Software**.
+## Competências Principais
+Atuo com foco em garantir a qualidade de software através de:
 
-## Objetivos:
-- Aprimorar continuamente minhas habilidades em **testes manuais e automatizados**
-- Colaborar em projetos **open source** e contribuir para a comunidade
-- Aprofundar meus conhecimentos em **metodologias ágeis** (Scrum, Kanban) e ferramentas como [Jira](https://www.atlassian.com/software/jira)
-- Aprender princípios e práticas de teste de software.
-- Desenvolver habilidades em documentação de testes.
-  
-## Projetos:
-Neste repositório, você encontrará alguns dos meus projetos mais recentes, onde aplico os conceitos e ferramentas que tenho aprendido. 
-Cada projeto reflete meu esforço em aprender e melhorar como profissional de QA. Neste repositório, você encontrará diversos projetos que desenvolvi durante meu percurso de aprendizagem. Busco seguir um padrão para realizar meus projetos de estudos:  
+- Implementação e execução de estratégias abrangentes de teste, incluindo testes funcionais, de layout, API e automação;
+- Desenvolvimento de documentação técnica detalhada e casos de teste precisos, facilitando a manutenção e escalabilidade dos projetos;
+- Utilização de metodologias ágeis (Scrum, Kanban) e ferramentas modernas como Jira para otimizar processos e entregas.
 
-- Documentação de Projetos: Criação de documentação detalhada e organizada
-- Análise de Requisitos: Elaboração de critérios de aceite e regras de negócio
-- Testes Funcionais: Criação e execução de casos de teste
-- Testes de Layout: Verificação de interfaces de usuário
-- Testes de API: Utilização de ferramentas como Postman
-- Testes Manuais: Execução e documentação de testes
-- Testes Automatizados: Experiência com Cypress e JavaScript
-- Metodologias Ágeis: Conhecimento em Scrum e Kanban
-- Varia conforme o que é pedido no projet
+## Objetivos Profissionais
+
+- Liderar iniciativas de qualidade em projetos inovadores, aplicando as melhores práticas de QA;
+- Contribuir ativamente para projetos open source, compartilhando conhecimento com a comunidade;
+- Aprofundar expertise em automação de testes e novas tecnologias emergentes;
+- Desenvolver frameworks de teste escaláveis e manuteníveis.
+
+## Projetos e Portfólio
+Em meu repositório, você encontrará projetos que demonstram minha abordagem sistemática para Qualidade de Software, incluindo:
+
+- **Documentação Técnica:** Especificações detalhadas e bem estruturadas
+- **Análise de Requisitos:** Elaboração criteriosa de critérios de aceite e regras de negócio
+- **Automação de Testes:** Implementações utilizando Cypress e JavaScript
+- **Testes de API:** Casos de teste e coleções no Postman
+- **Testes de Interface:** Validações completas de usabilidade e layout
+
+Cada projeto reflete meu compromisso com a excelência em qualidade de software e minha dedicação ao aprendizado contínuo.
+## Vamos Conectar!
+
+Sinta-se à vontade para explorar meus projetos e entrar em contato. Estou sempre aberto a feedbacks e colaborações que possam enriquecer ainda mais minha trajetória profissional. Juntos, podemos construir soluções robustas e inovadoras!
 
 
 
@@ -38,11 +44,7 @@ Cada projeto reflete meu esforço em aprender e melhorar como profissional de QA
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
   <img width="12" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" height="40" alt="cucumber logo"  />
-  <img width="12" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="ruby logo"  />
-  <img width="12" />    
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />  
+  <img width="12" />   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
 </div>
 
